@@ -1,6 +1,6 @@
-# 🧠 DSA Lab Practice – 40+ Concept-Driven Java Programs
+# 🧠 DSA Lab Practice – 30+ Concept-Driven Java Programs
 
-This repository contains a curated set of **40+ Java programs** covering essential Data Structures and Algorithms (DSA) topics. Each program is designed to reinforce **fundamental concepts**, making it ideal for students, interview preparation, and anyone seeking a strong grasp of core DSA patterns.
+This repository contains a curated set of **30+ Java programs** covering essential Data Structures and Algorithms (DSA) topics. Each program is designed to reinforce **fundamental concepts**, making it ideal for students, interview preparation, and anyone seeking a strong grasp of core DSA patterns.
 
 ## 📚 What's Inside
 
